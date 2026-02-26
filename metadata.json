@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Mentor Bridge",
+  "description": "A professional networking platform connecting students with mentors through a Tinder-style swipe interface, real-time chat, and resource sharing.",
+  "requestFramePermissions": ["microphone"]
+}
